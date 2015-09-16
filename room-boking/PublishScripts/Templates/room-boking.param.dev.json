@@ -1,0 +1,29 @@
+{
+  "siteName": {
+    "value": "room-boking"
+  },
+  "hostingPlanName": {
+    "value": "AzureTutorialPlan"
+  },
+  "siteLocation": {
+    "value": "West Europe"
+  },
+  "sku": {
+    "value": "Free"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "siteMode": {
+    "value": "Limited"
+  },
+  "computeMode": {
+    "value": "0"
+  },
+  "subscriptionId": {
+    "value": "1ceb3b9c-2884-46de-ad66-f83875852af0"
+  },
+  "resourceGroup": {
+    "value": "AzureTutorial"
+  }
+}
